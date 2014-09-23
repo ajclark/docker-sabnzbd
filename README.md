@@ -1,5 +1,5 @@
 
-# This is an opinionated SABnzbd docker image. 
+# This is an opinionated SABnzbd Dockerfile. 
 
 The idea behind my opinions is to bundle my specific SABnzbd.ini and autoProcessTV.cfg files as part of the docker image. This means it's somewhat useless to other people distributed as an image - but it's easier (for me) to bundle files vs play games with host mounted states and directories for configuration files.
 
