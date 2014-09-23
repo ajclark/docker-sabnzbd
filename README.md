@@ -1,4 +1,3 @@
-docker-sabnzbd
-==============
+# docker-sabnzb
 
-Dockerfile for SABnzbd
+Docker image for SABnzbd
