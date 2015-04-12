@@ -1,7 +1,7 @@
 
 #  SABnzbd Dockerfile
 
-### This project has moved to http://github.com/ajclark/usenet
+### This project has moved to https://github.com/ajclark/usenet
 
 # Instructions
 
