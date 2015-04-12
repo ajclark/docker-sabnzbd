@@ -1,6 +1,8 @@
 
 #  SABnzbd Dockerfile
 
+### This project has moved to http://github.com/ajclark/usenet
+
 # Instructions
 
 * Build: `docker build -t sabnzbd .`
